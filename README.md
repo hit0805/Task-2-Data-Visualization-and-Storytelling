@@ -34,4 +34,5 @@ This project provides a one-slide PowerPoint storyboard summarizing key business
 - Invest in Consumer-targeted campaigns.
 - Promote best-selling sub-categories such as Chairs.
 
-
+**Dashboard Screenshot**
+![image](https://github.com/user-attachments/assets/50283856-2235-4d0c-a2d6-f1c874d8cc85)
